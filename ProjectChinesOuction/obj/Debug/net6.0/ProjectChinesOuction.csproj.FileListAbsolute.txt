@@ -1,0 +1,694 @@
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.Direct3D9.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.Direct3D9.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.Direct3D9.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+F:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+G:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\מסלול\WEBAPI\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.Direct3D9.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+E:\מסלול\WEBAPI\Project\שלי\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\SharpDX.Direct3D9.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+C:\Users\1\Desktop\angular\ProjectServer\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+C:\Users\1\Desktop\angular\new new\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+M:\Web Api\Project\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\refint\ProjectChinesOuction.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.pdb
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.Development.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\libman.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\appsettings.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.exe
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.deps.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.runtimeconfig.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\ProjectChinesOuction.pdb
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Humanizer.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Scrutor.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.AssemblyReference.cache
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.GeneratedMSBuildEditorConfig.editorconfig
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfoInputs.cache
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.AssemblyInfo.cs
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CoreCompileInputs.cache
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cs
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.MvcApplicationPartsAssemblyInfo.cache
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.build.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.development.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.ProjectChinesOuction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectChinesOuction.props
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectChinesOuction.props
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectChinesOuction.props
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\staticwebassets.pack.json
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\scopedcss\bundle\ProjectChinesOuction.styles.css
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.csproj.CopyComplete
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ProjectChinesOuction.genruntimeconfig.cache
+M:\אנגולר\Projerct\ProjectChinesOuction\ProjectChinesOuction\obj\Debug\net6.0\ref\ProjectChinesOuction.dll
